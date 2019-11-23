@@ -4,5 +4,8 @@ google_analytics:
 show_downloads: true
 remote_theme: samesies/barber-jekyll
 
+plugins:
+  - jekyll-remote-theme
+
 gems:
   - jekyll-mentions
