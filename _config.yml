@@ -2,7 +2,7 @@ title: balexander123.GitHub.io
 description: GitHub Pages
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+remote_theme: samesies/barber-jekyll
 
 gems:
   - jekyll-mentions
