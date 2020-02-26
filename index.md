@@ -1,14 +1,11 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### My Professional Value Proposition
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+I am a problem solver by nature, especially well suited to seemingly intractable, strategically important initiatives whether they be legacy or green field solutions.  I use my extensive experience, listening skills, tenacity and patience to unravel and solve enabling technologies for organizations.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+I am a keen observer and look before I leap.  As a sensitive person, I take notice of subtle indications of potential problematic situations and treats to the long term viability of solutions.  I can thus provide council to any team in need of contemplative balance.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+I can lead a small team of motivated, subject matter experts on tactical execution of strategic initiatives in customer’s core business domain.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Philosophical and spiritual, titles and salaries are not my main motivators.  I find inspiration and drive in solving problems that enable breakthroughs that impact people’s lives in positive ways and move our world to a better place.
+
+If you have need of my innate powers of creativity and intuition to collaboratively solve your organizations most important initiatives, see my [profile on LinkedIn](https://www.linkedin.com/in/barry-alexander-9169553/).
